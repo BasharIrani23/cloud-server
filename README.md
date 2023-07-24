@@ -11,4 +11,4 @@
 
 ![image](https://github.com/BasharIrani23/cloud-server/assets/129655131/f32e3c66-de74-4b7f-ba77-45ec791b9beb)
 
-[Deployed server link](http://pet-server-env-1.eba-3bkhnhja.us-east-1.elasticbeanstalk.com/)
+[Deployed server link](http://cloud-server-2-env.eba-j4crktrm.us-east-1.elasticbeanstalk.com/)
